@@ -1,9 +1,0 @@
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store
-.venv/
-.streamlit/
-
-# Model artefacts
-*.pkl
-model_meta.json
